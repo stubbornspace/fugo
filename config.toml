@@ -1,0 +1,13 @@
+# Site settings
+baseurl = "https://d1nduod5ubm9fp.cloudfront.net/www/"
+languageCode = "en"
+theme = "cactus"
+uglyurls = true
+
+# Content settings
+title = "My Hugo Site"
+
+[params]
+   cookingtime = true
+	author = "Zaphod B"
+	bio = "Recipes from from all arround the webiverse"
