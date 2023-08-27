@@ -4,7 +4,8 @@ date: 2018-12-14
 linktitle: Paprika Sausage Bucatini
 title: Paprika Sausage Bucatini
 description: Italian sausage in white wine and paprika.
-
+summary: The moon is made of cheese, but don't eat it!
+tags: ['value_1', 'value_2']
 ---
 
 ![Example image](/www/images/short-rib.jpg)

@@ -1,0 +1,13 @@
+# Site settings
+baseurl = "foodfunk.net"
+languageCode = "en"
+theme = "mini"
+uglyurls = true
+
+# Content settings
+title = ""
+
+[params]
+  cookingtime = true
+	author = "Zaphod B"
+	bio = ""

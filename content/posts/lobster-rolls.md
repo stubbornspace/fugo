@@ -6,6 +6,7 @@ cookingtime: spicy, fish
 prev:
 title: Lobster Roll Dinner
 description: Lobster rolls with roast beets and watercress salad.
+summary: Lobster rolls with roast beets and watercress salad.
 ---
 
 ![Example image](/www/images/short-rib.jpg)
