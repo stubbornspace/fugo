@@ -1,6 +1,9 @@
 
 name: DeployToS3
 
+runs:
+  using: 'node16'
+    
 on:
   push:
     branches: [ main ]
