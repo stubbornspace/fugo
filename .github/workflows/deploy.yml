@@ -1,29 +1,20 @@
+name: Hugo Build and Deploy to S3
 
-name: DeployToS3
-    
 on:
   push:
-    branches: [ main ]
+    branches: [ maain ]
 
 jobs:
   build:
+    name: Build and Deploy
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout
-      uses: actions/checkout@v3
+      - name: Check out master
+        uses: actions/checkout@v3
       
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: '0.72.0'
-        # extended: true
-
-    - name: Build
-      run: hugo --buildFuture
-    
-    - name: Deploy
-      run: aws s3 sync --size-only --region us-east-1 public s3://funk-test/
-      env:
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: Build and deploy
+        uses: AlbertMorenoDEV/deploy-hugo-to-s3-action@v0.0.5
+        with:
+          hugo-version: 0.89.0
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
