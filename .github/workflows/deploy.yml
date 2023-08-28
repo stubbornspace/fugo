@@ -2,7 +2,7 @@ name: Hugo  to S3
 
 on:
   push:
-    branches: [ maain ]
+    branches: [ main ]
 
 jobs:
   build:
