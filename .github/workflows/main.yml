@@ -1,4 +1,4 @@
-name: CI
+name: DeployToS3
 
 on:
   push:
