@@ -1,4 +1,4 @@
-name: Hugo Build and Deploy to S3
+name: Hugo  to S3
 
 on:
   push:
