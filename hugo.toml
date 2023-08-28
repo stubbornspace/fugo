@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "foodfunk.net"
 languageCode = "en"
-theme = "mini"
+theme = "funk"
 uglyurls = true
 
 # Content settings
