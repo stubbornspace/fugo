@@ -29,4 +29,4 @@ jobs:
         aws-region: us-east-1
 
     - name: Deploy static site to S3 bucket
-      run: aws s3 sync ./public/ s3://foodfunk.net/ --delete
+      run: aws s3 sync ./public/ s3://foodfunk.net/ --delete --cache-control max-age=300
