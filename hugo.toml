@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "foodfunk.net"
+baseurl = "/"
 languageCode = "en"
 theme = "funk"
 uglyurls = true
