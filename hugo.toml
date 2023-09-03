@@ -11,4 +11,4 @@ title = ""
   cookingtime = true
   author = "Zaphod B"
   bio = ""
-  hiddenPostSummaryInHomePage: true
+  hiddenPostSummaryInHomePage = true
