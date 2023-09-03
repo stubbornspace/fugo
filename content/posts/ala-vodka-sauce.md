@@ -2,7 +2,7 @@
 author: "Zaphod"
 date: 2018-11-26
 linktitle: Ala vodka sauce
-tags: spicy, fish
+tags: ["spicy", "fish"]
 prev:
 title: Ala vodka sauce
 description: What? No penne!

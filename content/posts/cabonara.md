@@ -2,7 +2,7 @@
 author: "Zaphod"
 date: 2018-11-26
 linktitle: Carbonara
-tags: spicy, fish
+tags: ["spicy", "fish"]
 prev:
 title: Carbonara
 description: There are a million carbonara recipes on the web, this is mine, take it or leave it!

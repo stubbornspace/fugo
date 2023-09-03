@@ -2,7 +2,7 @@
 author: "Zaphod"
 date: 2018-11-26
 linktitle: Hawker noodles
-cookingtime: spicy, fish
+tags: ["car", "fish"]
 prev:
 title: Hawker noodles
 description: Super simple, delicious. a perfect week night feast.

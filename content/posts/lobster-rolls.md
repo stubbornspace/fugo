@@ -2,7 +2,7 @@
 author: "Zaphod"
 date: 2018-11-26
 linktitle: Lobster Rolls
-cookingtime: spicy, fish
+tags: ["car", "fish"]
 prev:
 title: Lobster Roll Dinner
 description: Lobster rolls with roast beets and watercress salad.
