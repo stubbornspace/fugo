@@ -2,7 +2,7 @@
 author: "Zaphod"
 date: 2018-11-26
 linktitle: Carbonara
-cookingtime: spicy, fish
+tags: spicy, fish
 prev:
 title: Carbonara
 description: There are a million carbonara recipes on the web, this is mine, take it or leave it!
@@ -27,7 +27,7 @@ summary: There are a million carbonara recipes on the web, this is mine, take it
 
 While the pasta is cooking, blend the egg yolks, eggs, parmesan and 2 tbs of olive oil to create a smooth sauce. Cook the peas (see how to cook pasta).
 
-**When the pasta is almost cooked, heat 2 tbs of olive oil in a large frying pan. Add the pancetta, red chili flakes and simmer for 2-3 minutes. Drain the pasta. Reserve a cup of water if you need to thin the sauce. Combine the pasta, peas and pancetta in the frying pan.** 
+**When the pasta is almost cooked, heat 2 tbs of olive oil in a large frying pan. Add the pancetta, red chili flakes and simmer for 2-3 minutes. Drain the pasta. Reserve a cup of water if you need to thin the sauce. Combine the pasta, peas and pancetta in the frying pan.**
 
 Remove the pan from the heat (turn off the heat and move the pan to a cooler part of the stove). Incorporate the sauce quickly, turning the pasta to avoid pasta a la scrambled eggs.
 
