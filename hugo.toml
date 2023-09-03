@@ -9,5 +9,6 @@ title = ""
 
 [params]
   cookingtime = true
-	author = "Zaphod B"
-	bio = ""
+  author = "Zaphod B"
+  bio = ""
+  hiddenPostSummaryInHomePage: true
